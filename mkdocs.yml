@@ -11,7 +11,8 @@ extra_css:
     - css/page.css
 nav:
     - Individuales:
-        - Actividad 1: todo.md
+        - Actividad Bonus: MetodologiasAgiles.md
+        - Actividad 1: EquipodeDesarrolloSoftware.md
         - Actividad 2: todo.md
     - Colaborativas:
         - Actividad 1: todo.md
