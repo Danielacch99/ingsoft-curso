@@ -4,7 +4,7 @@
 
 #### **¿Qué son las Metodologías Ágiles?**
 
- Se enfocan en procesos incrementales con entregas funcionales de un producto, esto buscando reducir las problemáticas en el desarrollo de software; las cuales buscan aumentar la confianza entre los clientes al vincularlos en el proceso mediante cooperación entre ellos y el equipo de trabajo.
+Se enfocan en procesos incrementales con entregas funcionales de un producto, esto buscando reducir las problemáticas en el desarrollo de software; las cuales buscan aumentar la confianza entre los clientes al vincularlos en el proceso mediante cooperación entre ellos y el equipo de trabajo.
 
 <br>
 
