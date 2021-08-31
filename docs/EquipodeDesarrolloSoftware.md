@@ -6,11 +6,14 @@
 
 <br>
 
-###**Equipos ágiles**
+### **Equipos ágiles**
 
 <br>
 
-El desarrollo ágil de software** es un marco de trabajo conceptual de la ingeniería de software que promueve iteraciones en el desarrollo a lo largo de todo el ciclo de vida del proyecto.El software desarrollado en una unidad de tiempo es llamado una iteración, la cual debe durar de una a cuatro semanas.
+**El desarrollo ágil de software**
+<br> 
+
+Es un marco de trabajo conceptual de la ingeniería de software que promueve iteraciones en el desarrollo a lo largo de todo el ciclo de vida del proyecto.El software desarrollado en una unidad de tiempo es llamado una iteración, la cual debe durar de una a cuatro semanas.
 Cada iteración del ciclo de vida incluye: planificación, análisis de requerimientos, diseño, codificación, revisión y documentación. Una iteración no debe agregar demasiada funcionalidad para justificar el lanzamiento del producto al mercado, pero la meta es tener un demo (sin errores) al final de cada iteración. Al final de cada iteración el equipo vuelve a evaluar las prioridades del proyecto.
 
 <br>
